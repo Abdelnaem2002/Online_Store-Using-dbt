@@ -34,7 +34,7 @@ Here, in our project, I used a dataset in the form of a CSV file that is brought
 
   Here, I use Looker Studio  to make analysis and visualization as it is a Google product and it is an available option direct to Google Bigqury.
   
-  You will find the dashboard on Looker Studio  [here](https://lookerstudio.google.com/s/hxUkyj_N63U)
+  You will find the dashboard on Looker Studio  [here](https://lookerstudio.google.com/s/qOdg3qQGat4)
 
 
 ## Software and Programs
