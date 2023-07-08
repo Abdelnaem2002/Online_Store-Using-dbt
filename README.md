@@ -22,7 +22,7 @@ Here, in our project, I used a dataset in the form of a CSV file that is brought
 
 - First of all, we  uploaded the data into Bigquery, there are many ways to do that, here I used it manually  to upload data.
   
-  I will upload the 1 file into BigQuery but we will focus on the food_delivery one to perform our transformations and deal with different cases.
+  I will upload the 1 file into BigQuery but we will focus on the Online_Store one to perform our transformations and deal with different cases.
   
 - I used dbt cloud to perform transformation and cleaning on data, so you have to connect big query and dbt first to be able to do that.
 
