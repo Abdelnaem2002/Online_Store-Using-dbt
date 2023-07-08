@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: online_store
+    columns:
+      - name: order_id
+        description: Primary key
+        tests:
+          - unique
+          - not_null
+      - name: ship_mode
+        description: ship mode to sure all record here exist
+        tests:
+        - accepted_values:
+            values: ['First Class', 'Standard Class', 'Second Class', 'Same Day', 'return_pending']
