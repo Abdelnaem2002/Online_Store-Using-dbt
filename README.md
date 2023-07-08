@@ -1,7 +1,6 @@
 # Online_Store
 
 
-![data-original](https://th.bing.com/th/id/R.47891fc69742fbc4639f9971d17fa501?rik=ec0zA5ToMgOo2A&pid=ImgRaw&r=0)
 
 Building  the ELT process and then performing analysis to get insights,
 
